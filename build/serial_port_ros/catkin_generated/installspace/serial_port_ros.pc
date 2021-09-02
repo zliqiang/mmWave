@@ -1,0 +1,8 @@
+prefix=/home/zliqiang/my_catkin_ws/install
+
+Name: serial_port_ros
+Description: Description of serial_port_ros
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

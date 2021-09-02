@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/zliqiang/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/zliqiang/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_geotiff/include/**",
+        "/home/zliqiang/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_map_tools/include/**",
+        "/home/zliqiang/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_mapping/include/**",
+        "/home/zliqiang/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_marker_drawing/include/**",
+        "/home/zliqiang/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/openslam_gmapping/include/**",
+        "/home/zliqiang/catkin_ws/src/serial_port/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/g++",
+      "cStandard": "c11",
+      "cppStandard": "c++11",
+      "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+
+    }
+  ],
+  "version": 4
+}
